@@ -1,0 +1,7 @@
+- Projects
+- Resources
+- Tasks
+	- [[TODO]] | [[NOW]] | [[DOING]] | [[LATER]]
+- Queries
+- Tags
+	- #Tips |
